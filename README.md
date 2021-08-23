@@ -5,7 +5,7 @@ in python. It covers python built in Data Structures such as Strings, List, Tupl
 
 ## Test the code
 
-- Run the following command to test each code snippet using python3
+Run the following command to test each code snippet using python3
 
 ```
 python3 01.py
