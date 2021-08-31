@@ -5,7 +5,7 @@ in python. It covers python built in Data Structures such as Strings, List, Tupl
 
 ## Inspiration
 
-Thisproject was inspired by the work of Joe James based on a youtube tutorial on Data Structures And Algorithms in Python. Please visit this link on [youtube](https://www.youtube.com/watch?v=kQDxmjfkIKY)
+This project was inspired by the work of Joe James based on a youtube tutorial on Data Structures And Algorithms in Python. Please visit this link on [youtube](https://www.youtube.com/watch?v=kQDxmjfkIKY)
 
 ## Test the code
 
