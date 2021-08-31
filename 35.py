@@ -64,7 +64,7 @@ Its a pretty easy operation. It works by using recursion. Size of the 3's subtre
 size = 1 + size of 3's left subtree + size of 3's right subtree. We call recursively, the get_size
 function as we descend down the tree, till we get to the leaf node and return a 1
 
-e. Travesal 
+e. Traversal 
 To traverse data in a tree, there are different traversal algorithms;
 
 Preoder traversal - visit the root before we visit the root's subtrees. 
