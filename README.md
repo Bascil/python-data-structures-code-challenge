@@ -1,6 +1,6 @@
 # python-data-structures-code-challenge
 
-This is 36 day code challenge for implementing data structures and algorithms
+This is 38 day code challenge for implementing data structures and algorithms
 in python. It covers python built in Data Structures such as Strings, List, Tuples, Dictionaries as well as Queues and Stacks, Max Heap, Linked Lists, Trees and Graphs
 
 ## Inspiration
